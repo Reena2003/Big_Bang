@@ -2,7 +2,7 @@ import React from 'react'
 
 const Classes = () => {
   return (
-    <div className='felx flex-col justify-center items-center'>
+    <section id="Classes" className='felx flex-col justify-center items-center'>
 
          <div className='text-center'>
             <h1 className='text-4xl font-bold text-center border-b-4 border-green-700 inline-block  mb-4'>Classes We Offer</h1>
@@ -89,7 +89,7 @@ const Classes = () => {
                     </div>
                 </div>
             </div>
-            </div>
+            </section>
                 
       
 
